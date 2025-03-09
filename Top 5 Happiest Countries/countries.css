@@ -1,0 +1,109 @@
+.heading {
+    position: fixed;
+        top: 0;
+        margin: auto;
+        width: 80%;
+        border-radius: 50px;
+        background: linear-gradient(45deg, #007bff, #00d4ff);
+        left:100px;
+        right: 100px;
+        text-align: center;
+        padding: 10px;
+        font-size: 18px;
+        font-weight: bold;
+}
+
+.heading-child {
+    padding: 5px 20px;
+    margin: 20px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 700; 
+}
+
+.middle-section {
+    width: 85%; 
+    margin: 30px auto; 
+    padding: 20px;
+    border-radius: 12px; 
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
+}
+
+.child-box{
+    width: 100px;
+    height: 100px;
+    position:fixed;
+    right: 10px;
+    bottom:10px; 
+}
+.fit-image {
+    width: 100%; 
+    height: 80%;
+    border-radius:10px;
+ }
+
+ nav {
+    position: sticky;
+    top: 40px;
+    left:100px;
+    right: 100px;
+    background-color: #ab0c0c;
+    padding: 10px;
+    text-align: center;
+    width: 80%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+a {
+    text-decoration: none;
+    color: #faeaea;
+    font-size: 18px;
+    margin: 0 10px;
+}
+
+.footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.box-container{
+
+    border:1px solid rgb(251, 247, 247);  
+    display: flex;
+    column-gap: 10px;
+    width:90%;
+    margin: auto;
+    /* flex-direction: column;   /*row row-reverse column-reverse*/  
+   
+  }
+  
+  .box{
+      border:1px solid grey;
+      padding: 10px;
+      margin:auto;
+      border-radius: 10px;
+  }
+  
+  .box1{
+      border:1px solid black; 
+      background-color: rgb(53, 19, 131);
+      height: 350px;
+  }
+  
+  .box2{
+      border:1px solid black;  
+      background-color: green;
+      height: 350px;
+  }
+  .box3{
+      border:1px solid black;  
+      background-color: blue;
+      height: 350px;
+  }
+  .box4{
+      border:1px solid black;  
+      background-color: burlywood;
+      height: 350px;
+  }
