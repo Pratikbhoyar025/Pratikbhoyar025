@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikbhoyar025&label=Profile%20views&color=0e75b6&style=flat" alt="pratikbhoyar025" /> </p>
 
-- 👋 Hi, I’m currently learning **Advanced Full stack Technologies**
+- 👋 Hi, I’m currently UpSkilling in **Java Full stack Development Technologies**
 
 - 📫 reach me at **pratikbhoyar025@gmail.com**
 
